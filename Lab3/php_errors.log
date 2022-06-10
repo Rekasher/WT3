@@ -1,0 +1,6 @@
+[02-Jun-2022 03:42:07 Europe/Minsk] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[02-Jun-2022 03:42:07 Europe/Minsk] PHP Fatal error:  Unknown: Failed opening required '/var/www/labsVT/lab3/task7.php' (include_path='.:/usr/share/php') in Unknown on line 0
+[03-Jun-2022 01:18:38 Europe/Minsk] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[03-Jun-2022 01:18:38 Europe/Minsk] PHP Fatal error:  Unknown: Failed opening required '/var/www/labsVT/lab3/task3.php' (include_path='.:/usr/share/php') in Unknown on line 0
+[03-Jun-2022 01:18:54 Europe/Minsk] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[03-Jun-2022 01:18:54 Europe/Minsk] PHP Fatal error:  Unknown: Failed opening required '/var/www/labsVT/lab3/task2.php' (include_path='.:/usr/share/php') in Unknown on line 0
